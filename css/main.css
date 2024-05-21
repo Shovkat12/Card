@@ -49,7 +49,7 @@ a{
     font-size: 14px;
     padding-bottom: 15px;
     word-wrap: break-word;
-    overflow-wrap: break-word;
+    
 }
 .card-third{
     display: flex;
