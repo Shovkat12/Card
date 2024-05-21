@@ -14,10 +14,10 @@ a{
 }
 .main-card{
     background-color: #172641;
-    width: 210px;
     padding: 15px;
     border-radius: 20px;
     display: block;
+    max-width: 210px;
 
 }
 .card-img{
@@ -48,6 +48,8 @@ a{
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
     padding-bottom: 15px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 .card-third{
     display: flex;
