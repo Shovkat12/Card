@@ -42,7 +42,7 @@ a{
     color: #09FCFD;
 }
 .card-text{
-    width: 250px;
+    width: auto;
     color: white;
     opacity: 50%;
     font-family: 'Times New Roman', Times, serif;
